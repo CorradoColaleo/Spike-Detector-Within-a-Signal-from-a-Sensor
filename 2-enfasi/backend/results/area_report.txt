@@ -1,0 +1,43 @@
+
+=== enfasi ===
+
+   Number of wires:               3969
+   Number of wire bits:           3990
+   Number of public wires:         167
+   Number of public wire bits:     188
+   Number of ports:                  4
+   Number of port bits:             25
+   Number of memories:               0
+   Number of memory bits:            0
+   Number of processes:              0
+   Number of cells:               3802
+     AND2_X1                       290
+     AND3_X1                        58
+     AND4_X1                         4
+     AOI211_X1                       4
+     AOI21_X1                      284
+     AOI221_X1                       3
+     AOI22_X1                       31
+     DFF_X1                        175
+     INV_X1                        191
+     MUX2_X1                         6
+     NAND2_X1                      491
+     NAND3_X1                       87
+     NAND4_X1                       10
+     NOR2_X1                       441
+     NOR3_X1                        55
+     NOR4_X1                         5
+     OAI211_X1                      12
+     OAI21_X1                      234
+     OAI221_X1                       4
+     OAI22_X1                       28
+     OR2_X1                         96
+     OR3_X1                         46
+     OR4_X1                          4
+     XNOR2_X1                      658
+     XOR2_X1                       585
+
+   Chip area for module '\enfasi': 5026.602000
+     of which used for sequential elements: 791.350000 (15.74%)
+
+

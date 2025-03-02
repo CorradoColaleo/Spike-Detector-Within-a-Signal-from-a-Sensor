@@ -1,0 +1,12 @@
+  violation type: Metal Spacing
+    srcs: net:_0210_ 
+    bbox = ( 4.925, 59.815 ) - ( 4.965, 59.885 ) on Layer metal3
+  violation type: Metal Spacing
+    srcs: net:D2.p1\[3\] 
+    bbox = ( 37.405, 72.415 ) - ( 37.455, 72.485 ) on Layer metal3
+  violation type: Metal Spacing
+    srcs: net:_0486_ 
+    bbox = ( 53.745, 15.715 ) - ( 53.785, 15.785 ) on Layer metal3
+  violation type: Metal Spacing
+    srcs: net:_2553_ 
+    bbox = ( 80.915, 45.115 ) - ( 80.945, 45.185 ) on Layer metal3

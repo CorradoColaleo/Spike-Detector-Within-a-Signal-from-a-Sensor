@@ -1,0 +1,44 @@
+
+60. Printing statistics.
+
+=== iir ===
+
+   Number of wires:               3089
+   Number of wire bits:           3109
+   Number of public wires:          81
+   Number of public wire bits:     101
+   Number of ports:                  4
+   Number of port bits:             24
+   Number of memories:               0
+   Number of memory bits:            0
+   Number of processes:              0
+   Number of cells:               3008
+     AND2_X1                       157
+     AND3_X1                        52
+     AND4_X1                         4
+     AOI211_X1                       9
+     AOI21_X1                      242
+     AOI221_X1                       4
+     AOI22_X1                       24
+     DFF_X1                         88
+     INV_X1                        191
+     MUX2_X1                         6
+     NAND2_X1                      332
+     NAND3_X1                       56
+     NAND4_X1                        7
+     NOR2_X1                       322
+     NOR3_X1                        65
+     NOR4_X1                         5
+     OAI211_X1                      20
+     OAI21_X1                      202
+     OAI221_X1                       3
+     OAI22_X1                       29
+     OR2_X1                         95
+     OR3_X1                         42
+     OR4_X1                          2
+     XNOR2_X1                      647
+     XOR2_X1                       404
+
+   Chip area for module '\iir': 3850.084000
+     of which used for sequential elements: 397.936000 (10.34%)
+

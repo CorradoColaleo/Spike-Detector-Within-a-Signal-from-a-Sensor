@@ -1,0 +1,3 @@
+  violation type: Metal Spacing
+    srcs: net:_2864_ 
+    bbox = ( 53.555, 59.815 ) - ( 53.605, 59.885 ) on Layer metal3
