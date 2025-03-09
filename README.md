@@ -12,7 +12,7 @@ This project implements a spike detection system within a signal received from a
 
 The project is implemented using SystemVerilog and includes both frontend and backend design stages.
 
-Features
+# Features
 
 Digital Filtering: Low-pass IIR filtering to remove high-frequency noise.
 
